@@ -22,3 +22,6 @@ Thumbs.db
 # Temporary files
 *.log
 *.tmp
+
+# HW04 large dataset
+hw04_networkx_disease/data/
