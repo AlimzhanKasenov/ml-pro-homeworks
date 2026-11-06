@@ -14,6 +14,7 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+.jupyter-runtime/
 
 # OS
 .DS_Store
@@ -25,3 +26,9 @@ Thumbs.db
 
 # HW04 large dataset
 hw04_networkx_disease/data/
+
+# HW06 datasets and generated artifacts
+hw06_cloud_classification/data/
+hw06_cloud_classification/smoke_data/
+hw06_cloud_classification/artifacts/
+hw06_cloud_classification/smoke_artifacts*/
