@@ -62,3 +62,20 @@ ml-pro-homeworks/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
+
+## HW07 — Web parsing и NLP
+
+Сбор 200 карточек книг с Books to Scrape, TF–IDF с униграммами и биграммами,
+подбор регуляризации логистической регрессии и анализ топ-50 коэффициентов.
+
+## HW08 — Трансформеры на RuCoLA
+
+RuBERT fine-tuning, RuGPT3 zero/few-shot и RuT5 fine-tuning на задаче
+лингвистической приемлемости. Baseline выполнен локально; полные transformer-
+эксперименты подготовлены для GPU-запуска.
+
+## HW09 — Прогнозирование трафика
+
+Очистка и выравнивание почасового ряда UCI Metro Interstate Traffic Volume,
+сравнение baseline, Ridge и HistGradientBoosting, недельный прогноз с интервалом.

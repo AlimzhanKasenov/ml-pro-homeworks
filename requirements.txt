@@ -9,3 +9,8 @@ lightgbm==4.7.0
 ipykernel==7.3.0
 networkx
 scipy
+requests
+beautifulsoup4
+transformers
+accelerate
+sentencepiece
